@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanshu Yadav
-- 👀 I’m interested in coading
-- 🌱 I’m currently learning web devlopment
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning web devlopment and Data Structures and Algorithms in C++
 - 📫 How to reach me priyanshuyadav15406@gmail.com
 
 <!---
